@@ -15,3 +15,6 @@ def pickingNumbers():
             maksimum = hitung
     return {"Hasil" : maksimum
     }
+
+print(pickingNumbers([1, 2, 2, 3, 1, 2]))
+
